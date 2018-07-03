@@ -155,3 +155,9 @@ https://github.com/jthomasparker/speakeasy
 https://jaz-speakeasy.herokuapp.com
 
 -------------------------
+
+Derek Ambrose, Mackenzie Florence, Marcelo Laos
+Undercut Realtors
+An app that allows users to find homes at their current value and what the predicted value would be after repairs are made
+https://github.com/mackflo/project3
+https://enigmatic-reef-28252.herokuapp.com/
